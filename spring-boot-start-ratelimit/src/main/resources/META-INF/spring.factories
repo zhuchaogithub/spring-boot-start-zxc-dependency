@@ -1,4 +1,4 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.zxc.ratelimit.redis.RedisConfiguration
-
-
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#
+#
+#
